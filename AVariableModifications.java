@@ -24,8 +24,8 @@ public class AVariableModifications {
 
 
         int e = 8;
-        Math.pow(e, 3);
-        System.out.println(e);
+        double cubedE = Math.pow(e, 3);
+        System.out.println(cubedE);
         // cube the value of e and print the new value
 
 
